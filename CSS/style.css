@@ -38,3 +38,9 @@ html {
     padding: .5rem 2rem;   
 }
 
+.cabecera span {
+    font-size: 2.3rem;
+    margin-left: 65px;
+    font-weight: lighter;
+    color: #ccc;
+}
