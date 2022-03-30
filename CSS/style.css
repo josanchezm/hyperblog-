@@ -29,4 +29,12 @@ html {
     text-align: center;
 }
 
+.cabecera {
+    background-color: #88f;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    margin: 0;
+    padding: .5rem 2rem;   
+}
 
