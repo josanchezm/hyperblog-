@@ -18,7 +18,14 @@ html {
     margin: 0 auto;
 }
 
+.text {
+    padding: 2.5rem;
+    text-align: justify;
+}
+
 .text h1 {
     font-size: 4rem;
     color: #000;
+    text-align: center;
 }
+
