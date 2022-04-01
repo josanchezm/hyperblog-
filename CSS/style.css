@@ -34,8 +34,26 @@ html {
     color: turquoise;
     text-align: left;
     font-weight: bold;
+    display: flex;
     margin: 0;
-    padding: .5rem 2rem;   
+    padding: .5rem 2rem;
+    align-items: center;
+}
+
+.cabecera picture {
+    width: 65px;
+    height: 65px;
+    border: 2px solid #000;
+    border-radius: 8px;
+}
+
+.cabecera picture img {
+    width: 100%;
+    object-fit: contain;
+}
+
+.cabecera p {
+    margin-left: 25px;
 }
 
 .cabecera span {
@@ -43,4 +61,6 @@ html {
     margin-left: 65px;
     font-weight: lighter;
     color: #ccc;
+    display: flex;
+    justify-content: center;
 }
