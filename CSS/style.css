@@ -64,3 +64,14 @@ html {
     display: flex;
     justify-content: center;
 }
+
+footer {
+    background-color: antiquewhite;
+    padding: .2rem;
+    text-align: center;
+    font-size: 2.3rem;
+}
+
+footer span p {
+    color: gray;
+}
