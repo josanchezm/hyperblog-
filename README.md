@@ -1,4 +1,4 @@
-# Blog de pruebas para el curso de Git y Github 
+# Blog de pruebas para el curso de Git y Github pero mejorado 
 
 >  este es un archivo readme.md el cual fue editado mediante  MEditor.md.
 
@@ -8,5 +8,6 @@
 - style/css
 - archivo de texto plano .txt 
 - un directorio con imagenes
+- ahora trae lo mismo pero mejor u:
 
 > Creado por **[Jaime Sánchez](https://github.com/josanchezm "Jaime Sánchez")**
