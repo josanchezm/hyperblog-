@@ -1,3 +1,5 @@
 Este es el archivo de texto plano que creamos en la carpeta proyecto_1, la cual ya cuenta con un repositorio de git que fue creado mediante la terminal. Este fue el primer cambio que realicé en el archivo. 
 
 Soy un cambio hecho con vim.
+
+Master 1
