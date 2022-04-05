@@ -21,6 +21,7 @@ html {
 .text {
     padding: 2.5rem;
     text-align: justify;
+    background-color: lightgray;
 }
 
 .text h1 {
@@ -79,7 +80,7 @@ html {
 }
 
 footer {
-    background-color: antiquewhite;
+    background-color: rgb(128, 193, 239);
     padding: .2rem;
     text-align: center;
     font-size: 2.3rem;
