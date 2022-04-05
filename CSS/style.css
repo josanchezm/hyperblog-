@@ -35,6 +35,11 @@ html {
     justify-content: center;
 }
 
+.husky-container img {
+    width: 70%;
+    object-fit: cover;
+}
+
 .cabecera {
     background-color: #88f;
     color: turquoise;
