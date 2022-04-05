@@ -29,6 +29,12 @@ html {
     text-align: center;
 }
 
+.text .husky-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 .cabecera {
     background-color: #88f;
     color: turquoise;
@@ -45,6 +51,8 @@ html {
     height: 65px;
     border: 2px solid #000;
     border-radius: 8px;
+    display: flex;
+    justify-content: center;
 }
 
 .cabecera picture img {
