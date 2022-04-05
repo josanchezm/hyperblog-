@@ -2,6 +2,4 @@ Este es el archivo de texto plano que creamos en la carpeta proyecto_1, la cual 
 
 Soy un cambio hecho con vim.
 
-Master 1
 
-Master 2
