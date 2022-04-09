@@ -46,7 +46,7 @@ html {
 }
 
 footer {
-    background-color: antiquewhite;
+    background-color: rgb(238, 217, 190);
     padding: .2rem;
     text-align: center;
     font-size: 2.3rem;
@@ -54,4 +54,5 @@ footer {
 
 footer span p {
     color: gray;
+    font-weight: bold;
 }
